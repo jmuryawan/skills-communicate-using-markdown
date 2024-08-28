@@ -8,3 +8,6 @@
 ``` python
 var = "Hello, Snowball!";
 ```
+- [ ] Feed Snowball
+- [ ] Take him out for a walk
+- [ ] Groom and clean him
